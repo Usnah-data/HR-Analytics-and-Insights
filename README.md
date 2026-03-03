@@ -16,4 +16,6 @@ This project showcases my ability to transform HR data into actionable insights,
 
 # Dashboards
 [HR Home](<img width="1426" height="762" alt="HR Home" src="https://github.com/user-attachments/assets/3c094181-16be-4102-8c5b-9e37d4b2787f" />
+[HR Details](<img width="1400" height="775" alt="HR Details" src="https://github.com/user-attachments/assets/67060560-6b28-423d-8f17-688e39cc90b3" />
+
 
