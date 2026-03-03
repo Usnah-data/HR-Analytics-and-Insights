@@ -7,7 +7,7 @@ Visualization of key HR metrics like attrition rate, department performance, and
 Insights to help HR teams improve retention and productivity
 Recommendations for data-driven HR strategies
 
-Technologies Used:
+Tools Used:
 Excel / Power BI 
 Data visualization and dashboard creation
 Descriptive and predictive HR analytics
