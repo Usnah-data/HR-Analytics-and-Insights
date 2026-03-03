@@ -13,3 +13,7 @@ Data visualization and dashboard creation
 Descriptive and predictive HR analytics
 
 This project showcases my ability to transform HR data into actionable insights, making it an ideal portfolio piece for roles in HR analytics, business analysis, and data-driven decision-making.
+
+# Dashboards
+[HR Home](<img width="1426" height="762" alt="HR Home" src="https://github.com/user-attachments/assets/3c094181-16be-4102-8c5b-9e37d4b2787f" />)
+
